@@ -1,0 +1,34 @@
+QUERY1
+18
+Karl Damon
+Julie Wozniak
+Jessie Madsen
+...
+
+QUERY2
+884
+Jerry Norman
+Jane Enderman
+Alex de Vito
+...
+
+QUERY3
+814
+Jerry Norman
+Jane Enderman
+Betty Note
+...
+
+QUERY4
+503
+Jane Enderman
+George Smith
+Karl Wozniak
+...
+
+QUERY5
+286
+Betty Note
+George Smith
+Helen Doe
+...
