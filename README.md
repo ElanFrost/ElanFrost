@@ -1,0 +1,3 @@
+- My name is @ElanFrost
+- I’m interested in programming, making a positive change in the world.
+- I’m currently learning Program Systems at Vilnius University.
