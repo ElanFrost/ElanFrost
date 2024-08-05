@@ -1,3 +1,2 @@
 - My name is @ElanFrost
 - I’m interested in programming, making a positive change in the world.
-- Currently learning Software Engineering at Vilnius University.
